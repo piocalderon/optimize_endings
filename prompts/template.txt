@@ -1,0 +1,11 @@
+{{instructions}}
+
+Your response should consist of exactly one paragraph.
+
+Plot so far:
+{{plot_without_ending}}
+
+{% if few_shot_demos is not none %}
+Here are some examples:
+{{few_shot_demos}}
+{% endif %}

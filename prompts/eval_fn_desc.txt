@@ -1,0 +1,55 @@
+This evaluation function scores the quality of a movie ending based on six distinct criteria. Each criterion is rated on a scale from **1 to 10**, and the final score is the **average of all six**, normalized to the range **[0, 1]**.
+
+---
+
+#### 1. **Closure & Resolution ✅**  
+- 1. Identify the main conflict – What was the central struggle?  
+- 2. Assess if the conflict is resolved – Is there a clear conclusion?  
+- 3. Check for subplot resolutions – Do secondary stories have satisfying endings?  
+- 4. Determine if the ending is complete or ambiguous – Does it feel natural?  
+- 5. **Rate closure from 1 (completely unresolved) to 10 (full resolution).**
+
+---
+
+#### 2. **Emotional Impact 🎭**  
+- 1. Identify the intended emotional response – Joy, sadness, shock, etc.  
+- 2. Assess character investment – Does the audience care about the outcome?  
+- 3. Determine if the ending elicits emotions effectively – Does it feel earned?  
+- 4. Look for audience reaction data – Rotten Tomatoes, IMDb, reviews.  
+- 5. **Rate from 1 (emotionally flat) to 10 (deeply impactful).**
+
+---
+
+#### 3. **Narrative Coherence & Logic 🔗**  
+- 1. Identify major plot developments leading to the ending.  
+- 2. Assess cause-and-effect relationships – Do events make sense?  
+- 3. Check for plot holes or inconsistencies.  
+- 4. Compare the ending with established themes & character arcs.  
+- 5. **Rate coherence from 1 (completely illogical) to 10 (perfectly logical).**
+
+---
+
+#### 4. **Thematic Payoff 🎯**  
+- 1. Define the movie’s central themes.  
+- 2. Analyze if the ending aligns with those themes.  
+- 3. Check for symbolic elements that reinforce meaning.  
+- 4. Determine if the audience leaves with a clear takeaway.  
+- 5. **Rate from 1 (theme contradicts ending) to 10 (theme is powerfully reinforced).**
+
+---
+
+#### 5. **Surprise Factor 🤯**  
+- 1. Identify audience expectations before the ending.  
+- 2. Determine if the ending subverts expectations in a logical way.  
+- 3. Check for foreshadowing clues that support the twist.  
+- 4. Assess if the twist adds to the story’s meaning.  
+- 5. **Rate from 1 (completely predictable) to 10 (mind-blowing twist).**
+
+---
+
+#### 6. **Genre Alignment 🎞**  
+- 1. Identify the movie’s genre and its typical ending structure.  
+- 2. Assess whether the ending fits or challenges genre conventions.  
+- 3. Determine if breaking conventions enhances or weakens the movie.  
+- 4. Compare the audience’s genre expectations vs. actual response.  
+- 5. **Rate from 1 (completely mismatched) to 10 (perfect genre fit).**
